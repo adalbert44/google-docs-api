@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0427715f-d628-4b32-969f-ccdf3fb7faa4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="20bfRnSydwSB6mlLLUca9QYDbXq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="docs" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../dataSourceV2/memsql-spark-connector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../memsql-spark-connector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../memsql-spark-connector/project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../perftest/memsql-spark-connector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../singlestore-spark-connector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../snowflake/spark-redshift" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0427715f-d628-4b32-969f-ccdf3fb7faa4" name="Default Changelist" comment="" />
+      <created>1636318201633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636318201633</updated>
+      <workItem from="1636318207822" duration="1910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636319116460">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636319116460" />
+    <state x="809" y="447" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1636318258579">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="809" y="447" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636318258579" />
+    <state x="748" y="313" key="FileChooserDialogImpl" timestamp="1636319094790">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="313" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1636319094790" />
+    <state width="1434" height="298" key="GridCell.Tab.0.bottom" timestamp="1636320118978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1434" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1636320118978" />
+    <state width="1434" height="298" key="GridCell.Tab.0.center" timestamp="1636320118978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1434" height="298" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1636320118978" />
+    <state width="1434" height="298" key="GridCell.Tab.0.left" timestamp="1636320118977">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1434" height="298" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1636320118977" />
+    <state width="1434" height="298" key="GridCell.Tab.0.right" timestamp="1636320118978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1434" height="298" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636320118978" />
+    <state x="292" y="109" key="new project wizard" timestamp="1636318777216">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="292" y="109" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1636318777216" />
+  </component>
+</project>
